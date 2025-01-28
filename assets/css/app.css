@@ -1,0 +1,9 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
